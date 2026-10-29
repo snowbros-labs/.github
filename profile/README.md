@@ -63,6 +63,22 @@ Homebrew formulae for Snowbros Labs tools.
 brew install snowbros-labs/tap/snowbros-atlas
 ```
 
+## Studio work
+
+Products we designed and engineered, all shipped in 2026. Source lives with each project.
+
+| Project | What it is | Links |
+|:--|:--|:--|
+| **Vinny's Atelier** | The retail system a fashion boutique bills on every day: offline-first till, Razorpay UPI, 268 tests gating every release. | Private client system |
+| **AMR Screening** | Drug-repurposing research platform: 1,761 approved medicines screened against four drug-resistant bacteria for Ganpat University's pharmacy college. | [Site](https://amr-drug-repurposing.vercel.app) · [Source](https://github.com/amrdrugrepurposing/amr-drug-repurposing-1) |
+| **NOVA** | Privacy-first desktop media player: Rust, Tauri 2 and libmpv. Shows only what the engine confirms. | [Site](https://nova.snowbros.me) · [Source](https://github.com/VED2107/nova) |
+| **SwiftDrop** | Photos and files between phone and PC over your own Wi-Fi. No cloud, no account. | [Site](https://swiftdrop.snowbros.me) · [Source](https://github.com/VED2107/swiftdrop) |
+| **Accounic** | Multi-currency ledger: web, Android and Windows on one Postgres schema that owns every balance. | [Source](https://github.com/VED2107/accounic) |
+| **STC Academy** | Teaching platform for CBSE and GSEB students, with an admin command centre behind it. | [Source](https://github.com/VED2107/STC) |
+| **Lunora Studio** | Handmade-bouquet store with a scroll-told landing page. | [Source](https://github.com/VED2107/lunora-studio) |
+
+Case studies: [snowbros.me/#work](https://snowbros.me/#work)
+
 ## Principles
 
 - **Deterministic.** Same codebase → identical output, sorted and stable.

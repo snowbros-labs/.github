@@ -1,11 +1,16 @@
 <div align="center">
 
-# ❄️ Snowbros Labs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snowbros-lockup-paper.svg">
+  <img src="assets/snowbros-lockup-ink.svg" alt="SNOWBROS" width="320">
+</picture>
 
-**Deterministic developer tools. Same code in, same findings out.**
+**Independent engineering studio. Software that holds its shape.**
 
-Engineering-intelligence tooling for JavaScript / TypeScript codebases —
-built on one principle: *analysis is a compiler, not a guess.*
+Developer tools, products and interfaces that tell you what they actually did —
+built on one principle: *same input in, same result out.*
+
+[snowbros.me](https://snowbros.me) · [Start a project](https://snowbros.me/#contact) · [LinkedIn](https://www.linkedin.com/company/snowbros-studio/)
 
 </div>
 
@@ -44,6 +49,12 @@ An engineering-intelligence system for Claude Code — a capability
 orchestrator that teaches or builds across software, backend, frontend,
 architecture, security, design, AI, DevOps, and leadership.
 
+### [creative-engineering](https://github.com/snowbros-labs/creative-engineering)
+
+An agent skill and modular TypeScript toolkit for motion, scroll choreography,
+interactive 3D and premium interfaces. It builds [snowbros.me](https://snowbros.me) —
+see it run in [the lab](https://snowbros.me/lab.html).
+
 ### 🍺 [homebrew-tap](https://github.com/snowbros-labs/homebrew-tap)
 
 Homebrew formulae for Snowbros Labs tools.
@@ -62,5 +73,5 @@ brew install snowbros-labs/tap/snowbros-atlas
 ---
 
 <div align="center">
-<sub>Snowbros Labs · <a href="https://snowbros.me/atlas/">snowbros.me/atlas</a></sub>
+<sub>SNOWBROS · <a href="https://snowbros.me">snowbros.me</a> · <a href="https://snowbros.me/privacy.html">Privacy</a></sub>
 </div>
